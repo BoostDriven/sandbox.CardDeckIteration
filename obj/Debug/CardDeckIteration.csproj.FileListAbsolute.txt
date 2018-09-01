@@ -1,0 +1,5 @@
+C:\Users\Troy\Documents\Visual Studio 2017\Projects\CardDeckIteration\bin\Debug\Iteration.exe.config
+C:\Users\Troy\Documents\Visual Studio 2017\Projects\CardDeckIteration\bin\Debug\Iteration.exe
+C:\Users\Troy\Documents\Visual Studio 2017\Projects\CardDeckIteration\bin\Debug\Iteration.pdb
+C:\Users\Troy\Documents\Visual Studio 2017\Projects\CardDeckIteration\obj\Debug\Iteration.exe
+C:\Users\Troy\Documents\Visual Studio 2017\Projects\CardDeckIteration\obj\Debug\Iteration.pdb
